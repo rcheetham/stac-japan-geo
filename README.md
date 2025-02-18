@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://rcheetham.github.io/stac-japan-geo
-    
+
 
 ## Features
 
