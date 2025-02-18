@@ -1,15 +1,15 @@
-# Welcome to stac_japan_geo
+# Welcome to stac-japan-geo
 
 
-[![image](https://img.shields.io/pypi/v/stac_japan_geo.svg)](https://pypi.python.org/pypi/stac_japan_geo)
+[![image](https://img.shields.io/pypi/v/stac-japan-geo.svg)](https://pypi.python.org/pypi/stac-japan-geo)
 
 
 **Python package to search a STAC earth observation imagery catalog and find images in the Japanese archipelago.**
 
 
 -   Free software: MIT License
--   Documentation: <https://rcheetham.github.io/stac_japan_geo>
-    
+-   Documentation: <https://robertcheetham.com/stac-japan-geo>
+
 
 ## Features
 

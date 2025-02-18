@@ -4,7 +4,7 @@ site_author: rcheetham
 site_url: https://rcheetham.github.io/stac-japan-geo
 repo_url: https://github.com/rcheetham/stac-japan-geo
 
-copyright: "Copyright &copy; 2024 - 2024 Robert Cheetham"
+copyright: "Copyright &copy; 2024 - 2025 Robert Cheetham"
 
 theme:
     palette:
@@ -51,7 +51,7 @@ plugins:
           allow_errors: false
           ignore: ["conf.py"]
           execute_ignore: ["*ignore.ipynb"]
-          
+
 markdown_extensions:
     - admonition
     - abbr
@@ -82,5 +82,5 @@ nav:
     - Examples:
         - examples/intro.ipynb
     - API Reference:
-          - stac_japan_geo module: stac_japan_geo.md
+          - stac-japan-geo module: stac-japan-geo.md
           - common module: common.md

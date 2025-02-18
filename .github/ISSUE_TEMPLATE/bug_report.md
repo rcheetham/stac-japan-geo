@@ -8,7 +8,7 @@ labels: bug
 
 ### Environment Information
 
--   stac_japan_geo version:
+-   stac-japan-geo version:
 -   Python version:
 -   Operating System:
 
