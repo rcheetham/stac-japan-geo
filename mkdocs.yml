@@ -82,5 +82,5 @@ nav:
     - Examples:
         - examples/intro.ipynb
     - API Reference:
-          - stac-japan-geo module: stac-japan-geo.md
+          - stac-japan-geo module: stac_japan_geo.md
           - common module: common.md
