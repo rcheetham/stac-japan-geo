@@ -2,7 +2,6 @@
 
 """Tests for `stac_japan_geo` package."""
 
-
 import unittest
 
 from stac_japan_geo import stac_japan_geo
